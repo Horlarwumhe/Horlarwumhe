@@ -2,7 +2,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Horlarwumhe&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemMAX&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlarwumhe&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 I am an experienced Python developer with over 2 years of experience building scalable and robust applications. I have a strong understanding of Python language and its associated frameworks such as Django, Flask, and Pyramid. 
 
