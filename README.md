@@ -39,11 +39,6 @@ Project [Homepage](https://github.com/horlarwumhe/abbey)
  
 Abbey is a minimal,python-like language. Built for anyone interested in building an interpreter or compiler.
 
-
-## Side projects
-
-Telegram Bot [word-ban-bot](https://github.com/horlarwumhe/word-ban-bot) to keep groups and channels from impersonator
-
 ## Contact Me
 <p>
    <a href="https://www.linkedin.com/in/akanji-olawumi-7256871a6">
